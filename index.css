@@ -1,0 +1,17 @@
+body {
+   color: black;
+    background-color:#CD853F;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+a {
+     color:beige;
+     text-decoration: none;
+}
