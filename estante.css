@@ -31,10 +31,12 @@ p2 {
     font-family: 'Courier New', Courier, monospace;
     font-size: larger;
     text-decoration: underline;
-    
 }
- 
- .estante{ 
-    position: relative;
-}
-  
+
+ p3{
+    line-height: 27px;
+    display: flex;
+    justify-content: left;
+    text-align: right ;
+    size: 500px;
+ }
