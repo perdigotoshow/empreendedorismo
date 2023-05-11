@@ -15,3 +15,14 @@ a {
      color:beige;
      text-decoration: none;
 }
+
+section {
+    background-image: linear-gradient( #CD853F, #c4bebe);
+    color: black rgb(red, green, blue);     
+}
+
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(31, 29, 29);
+}

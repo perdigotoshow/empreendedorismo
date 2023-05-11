@@ -33,10 +33,3 @@ p2 {
     text-decoration: underline;
 }
 
- p3{
-    line-height: 27px;
-    display: flex;
-    justify-content: left;
-    text-align: right ;
-    size: 500px;
- }
