@@ -1,0 +1,35 @@
+body {
+     background-color: #CD853F;
+     color: rgb(235, 252, 197);
+
+
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    font-stretch: narrower;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+p1 {
+
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    display: flex;
+    justify-content: center;
+    padding-left: 30px;
+    text-align: justify;
+    text-size-adjust: inherit;
+}
+p2 {
+    line-height: 27px;
+    display: flex;
+    padding: 25px;
+    padding-right: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    text-decoration: underline;
+}
+
